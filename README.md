@@ -10,8 +10,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizahage&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias 👩🏻‍💻
-<div style="display: inline_block"><br>
+## Tecnologias 👩🏻‍💻
+<div style="display: inline_block">
   <img align="center" alt="Luiza-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiza-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
