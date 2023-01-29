@@ -2,7 +2,6 @@
   
 - 🔭 Atualmente trabalho com back-end.
 - 🌱 Estudando C#.
-- 😄 Pronouns: ela/dela.
 
 <div align="center">
     <a href="https://github.com/luizahage">
