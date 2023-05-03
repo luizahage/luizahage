@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://github.com/luizahage">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizahage&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://readmestats.999857.xyz/api?username=luizahage&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=luizahage&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
